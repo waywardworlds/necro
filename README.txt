@@ -1,3 +1,3 @@
 # necro
 Necromancer's Cave web game.
-Change made
+Based on The Sorcerer's Cave by Peter Donnelly, http://skookumpete.com/
